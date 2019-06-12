@@ -1,0 +1,9 @@
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.deps.json
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.pdb
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.csprojAssemblyReference.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.csproj.CoreCompileInputs.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.AssemblyInfoInputs.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.AssemblyInfo.cs
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.pdb

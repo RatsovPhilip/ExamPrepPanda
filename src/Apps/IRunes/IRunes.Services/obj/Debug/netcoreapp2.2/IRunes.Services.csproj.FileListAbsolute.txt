@@ -1,0 +1,14 @@
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.deps.json
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.pdb
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Data.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Models.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Data.pdb
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Models.pdb
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.csprojAssemblyReference.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.csproj.CoreCompileInputs.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.AssemblyInfoInputs.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.AssemblyInfo.cs
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.csproj.CopyComplete
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.pdb

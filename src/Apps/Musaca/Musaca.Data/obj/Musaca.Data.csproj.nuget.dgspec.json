@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
+        "projectName": "Musaca.Data",
+        "projectPath": "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Data\\Musaca.Data.csproj",
+        "packagesPath": "C:\\Users\\reny_\\.nuget\\packages\\",
+        "outputPath": "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\reny_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+                "projectPath": "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
+        "projectName": "Musaca.Models",
+        "projectPath": "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Models\\Musaca.Models.csproj",
+        "packagesPath": "C:\\Users\\reny_\\.nuget\\packages\\",
+        "outputPath": "D:\\C#Web\\WebBasics\\ExamPrepPanda\\src\\Apps\\Musaca\\Musaca.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\reny_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

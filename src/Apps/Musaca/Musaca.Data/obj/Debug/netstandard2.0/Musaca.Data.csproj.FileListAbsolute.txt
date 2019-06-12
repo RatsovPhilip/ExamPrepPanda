@@ -1,0 +1,12 @@
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.deps.json
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Data.pdb
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Models.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\bin\Debug\netstandard2.0\Musaca.Models.pdb
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.csprojAssemblyReference.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.csproj.CoreCompileInputs.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.AssemblyInfoInputs.cache
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.AssemblyInfo.cs
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.csproj.CopyComplete
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.dll
+D:\C#Web\WebBasics\ExamPrepPanda\src\Apps\Musaca\Musaca.Data\obj\Debug\netstandard2.0\Musaca.Data.pdb
