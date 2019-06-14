@@ -1,7 +1,7 @@
 ﻿using Panda.Data;
 using Panda.Services;
-using Panda.Web.ViewModels.Packages;
-using Panda.Web.ViewModels.Reciepts;
+using Panda.Services.Packages;
+using Panda.Services.Reciepts;
 using SIS.MvcFramework;
 using SIS.MvcFramework.DependencyContainer;
 using SIS.MvcFramework.Routing;
