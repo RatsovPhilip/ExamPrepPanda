@@ -2,6 +2,7 @@
 using Panda.Web.ViewModels.Users;
 using SIS.MvcFramework;
 using SIS.MvcFramework.Attributes;
+using SIS.MvcFramework.Attributes.Security;
 using SIS.MvcFramework.Result;
 using System;
 using System.Collections.Generic;
@@ -23,9 +24,34 @@ namespace Panda.Web.Controllers
             return this.View();
         }
 
+        [HttpPost]
+        public IActionResult Login(LoginInputModel input)
+        {
+            if (!this.ModelState.IsValid)
+            {
+                return this.Redirect("/Users/Login");
+            }
+
+            var user = this.usersService.GetUserOrNull(input.Username, input.Password);
+            if (user == null)
+            {
+                return this.Redirect("/Users/Login");
+            }
+
+            this.SignIn(user.Id, user.UserName, user.Email);
+            return this.Redirect("/");
+        }
+
         public IActionResult Register()
         {
             return this.View();
+        }
+
+        [Authorize]
+        public IActionResult Logout()
+        {
+            this.SignOut();
+            return this.Redirect("/");
         }
 
         [HttpPost]
@@ -36,13 +62,13 @@ namespace Panda.Web.Controllers
                 return this.Redirect("/Users/Register");
             }
 
-            if(inputModel.Password != inputModel.ConfirmPassword)
+            if (inputModel.Password != inputModel.ConfirmPassword)
             {
                 return this.Redirect("/Users/Register");
             }
 
             var userId = this.usersService.CreateUser(inputModel.Username, inputModel.Email, inputModel.Password);
-            this.SignIn(userId,inputModel.Username,inputModel.Email);
+            this.SignIn(userId, inputModel.Username, inputModel.Email);
             return Redirect("/");
         }
     }

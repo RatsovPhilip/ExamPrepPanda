@@ -9,7 +9,7 @@ namespace Panda.Web.Controllers
 {
     public class HomeController : Controller
     {
-        [HttpGet(Url="/")]
+        [HttpGet(Url = "/")]
         public IActionResult IndexEmpty()
         {
             return this.Index();
@@ -18,7 +18,14 @@ namespace Panda.Web.Controllers
         //Home/Index
         public IActionResult Index()
         {
-            return this.View();
+            if (this.IsLoggedIn())
+            {
+                return this.View("IndexLoggedIn");
+            }
+            else
+            {
+                return this.View();
+            }
         }
     }
 }
