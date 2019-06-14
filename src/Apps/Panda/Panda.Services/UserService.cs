@@ -32,6 +32,12 @@ namespace Panda.Services
             return user.Id;
         }
 
+        public IEnumerable<string> GetAllUserNames()
+        {
+            var userNames = this.context.Users.Select(x => x.UserName).ToList();
+            return userNames;
+        }
+
         public User GetUserOrNull(string username, string password)
         {
             var passwordHash = this.HashPassword(password);

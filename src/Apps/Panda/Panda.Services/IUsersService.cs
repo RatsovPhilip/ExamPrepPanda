@@ -11,5 +11,7 @@ namespace Panda.Services
 
         User GetUserOrNull(string username, string password);
 
+        IEnumerable<string> GetAllUserNames();
+
     }
 }
